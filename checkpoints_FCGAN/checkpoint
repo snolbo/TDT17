@@ -1,0 +1,6 @@
+model_checkpoint_path: "generator_090.ckpt"
+all_model_checkpoint_paths: "generator_050.ckpt"
+all_model_checkpoint_paths: "generator_060.ckpt"
+all_model_checkpoint_paths: "generator_070.ckpt"
+all_model_checkpoint_paths: "generator_080.ckpt"
+all_model_checkpoint_paths: "generator_090.ckpt"
